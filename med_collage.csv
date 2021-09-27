@@ -1,0 +1,439 @@
+S.No.,State,Name and Address of Medical College / Medical Institution,Starting Year,Rank
+1,Tamil Nadu,"Madras Medical College, Chennai",1835,1
+2,West Bengal,"Medical College, Kolkata",1838,2
+3,Tamil Nadu,"Stanley Medical College, Chennai",1838,2
+4,Maharashtra,"Grant Medical College, Mumbai",1845,3
+5,Uttar Pradesh,"Chhatrapati Shahuji Maharaj Medical University, Lucknow",1911,4
+6,Delhi,"Lady Hardinge Medical College, New Delhi",1916,5
+7,West Bengal,"RG Kar Medical College, Kolkata",1916,5
+8,Andhra Pradesh,"Andhra Medical College, Visakhapatnam",1923,6
+9,Karnataka,"Govt. Medical College, Mysore",1924,7
+10,Bihar,"Patna Medical College, Patna",1925,8
+11,Maharashtra,"Seth GS Medical College, Mumbai",1925,8
+12,Uttar Pradesh,"S N Medical College, Agra",1939,9
+13,Tamil Nadu,"Christian Medical College, Vellore",1942,10
+14,Punjab,"Government Medical College, Amritsar",1943,11
+15,Orissa,"SCB Medical College, Cuttack",1944,12
+16,Gujarat,"B J Medical College, Ahmedabad",1946,13
+17,Bihar,"Darbhanga Medical College, Lehriasarai",1946,13
+18,Madhya Pradesh,"Gajra Raja Medical College, Gwalior",1946,13
+19,Andhra Pradesh,"Guntur Medical College, Guntur",1946,13
+20,Andhra Pradesh,"Osmania Medical College, Hyderabad",1946,13
+21,Assam,"Assam Medial College, Dibrugarh",1947,14
+22,Maharashtra,"Government Medical College, Nagpur",1947,14
+23,Rajasthan,"SMS Medical College, Jaipur",1947,14
+24,West Bengal,"Calcutta National Medical College, Kolkata",1948,15
+25,Madhya Pradesh,"M G M Medical College, Indore",1948,15
+26,West Bengal,"Nilratan Sircar Medical College, Kolkata",1948,15
+27,Gujarat,"Medical College, Baroda",1949,16
+28,Kerala,"Medical College, Thiruvananthapuram",1951,17
+29,Punjab,"Christian Medical College, Ludhiana",1953,18
+30,Punjab,"Government Medical College, Patiala",1953,18
+31,Karnataka,"Kasturba Medical College, Manipal",1953,18
+32,Andhra Pradesh,"Gandhi Medical College, Hyderabad",1954,19
+33,Tamil Nadu,"Madurai Medical College, Madurai",1954,19
+34,Karnataka,"Bangalore Medical College and Research Institute, Bangalore",1955,20
+35,Madhya Pradesh,"Gandhi Medical College, Bhopal",1955,20
+36,Uttar Pradesh,"GSVM Medial College, Kanpur",1955,20
+37,Karnataka,"Kasturba Medical College, Mangalore",1955,20
+38,Gujarat,"MP Shah Medical College,Jamnagar",1955,20
+39,Madhya Pradesh,"Netaji Subhash Chandra Bose Medical College, Jabalpur",1955,20
+40,Delhi,"All India Institute of Medical Sciences, New Delhi",1956,21
+41,West Bengal,"Bankura Sammilani Medical College, Bankura",1956,21
+42,Maharashtra,"Government Medical College, Aurangabad",1956,21
+43,Pondicherry,"Jawaharlal Institute of Postgraduate Medical Education &
+  Research, Puducherry",1956,21
+44,Kerala,"Govt. Medical College, Kozhikode,Calicut",1957,22
+45,West Bengal,"Institute of Postgraduate Medical Education & Research,
+  Kolkata",1957,22
+46,Karnataka,"Karnataka Institute of Medical Sciences, Hubli",1957,22
+47,Andhra Pradesh,"Kurnool Medical College, Kurnool",1957,22
+48,Delhi,"Maulana Azad Medical College, New Delhi",1958,23
+49,Andhra Pradesh,"Rangaraya Medical College, Kakinada",1958,23
+50,Jammu & Kashmir,"Government Medical College, Srinagar",1959,24
+51,Andhra Pradesh,"Kakatiya Medical College, Wrangal",1959,24
+52,Rajasthan,"Sardar Patel Medical College, Bikaner",1959,24
+53,Tamil Nadu,"Thanjavur Medical College,Thanjavur",1959,24
+54,Orissa,"VSS Medical College, Burala",1959,24
+55,Assam,"Gauhati Medical College, Guwahati",1960,25
+56,Kerala,"Government Medical College, Kottayam",1960,25
+57,Uttar Pradesh,"Institute of Medical Sciences, BHU, Varansi",1960,25
+58,Tamil Nadu,"Kilpauk Medical College, Chennai",1960,25
+59,Haryana,"Pt. B D Sharma Postgraduate Institute of Medical Sciences,
+  Rohtak (Haryana)",1960,25
+60,Jharkhand,"Rajendra Institute of Medical Sciences, Ranchi",1960,25
+61,Andhra Pradesh,"S V Medical College, Tirupati",1960,25
+62,Uttar Pradesh,"Jawaharlal Nehru Medical College, Aligarh",1961,26
+63,Jharkhand,"M G M Medical College, Jamshedpur",1961,26
+64,Uttar Pradesh,"Moti Lal Nehru Medical College, Allahabad",1961,26
+65,Rajasthan,"R N T Medical College, Udaipur",1961,26
+66,Karnataka,"Vijaynagar Institute of Medical Sciences, Bellary",1961,26
+67,Maharashtra,"Armed Forces Medical College, Pune",1962,27
+68,Maharashtra,"Govt. Medical College, Miraj",1962,27
+69,Orissa,"MKCG Medical College, Berhampur",1962,27
+70,Punjab,"Dayanand Medical College & Hospital, Ludhiana",1963,28
+71,Maharashtra,"Dr Vaishampayan Memorial Medical College, Solapur",1963,28
+72,Goa,"Goa Medical College, Panaji",1963,28
+73,Karnataka,"Jawaharlal Nehru Medical College, Belgaum",1963,28
+74,Karnataka,"Mahadevappa Rampure Medical College, Gulbarga",1963,28
+75,Chattisgarh,"Pt. J N M Medical College, Raipur",1963,28
+76,Madhya Pradesh,"Shyam Shah Medical College, Rewa",1963,28
+77,Gujarat,"Smt. N.H.L.Municipal Medical College, Ahmedabad",1963,28
+78,Karnataka,"St. Johns Medical College, Bangalore",1963,28
+79,Kerala,"T D Medical College, Alleppey (Allappuzha)",1963,28
+80,Maharashtra,"B. J. Govt. Medical College, Pune",1964,29
+81,Gujarat,"Government Medical College, Surat",1964,29
+82,Maharashtra,"Lokmanya Tilak Municipal Medical College, Sion, Mumbai",1964,29
+83,Maharashtra,"Topiwala National Medical College, Mumbai",1964,29
+84,Tamil Nadu,"Chengalpattu Medical College, Chengalpattu",1965,30
+85,Rajasthan,"Dr SN Medical College, Jodhpur",1965,30
+86,Rajasthan,"Jawaharlal Nehru Medical College, Ajmer",1965,30
+87,Karnataka,"JJM Medical College, Davangere",1965,30
+88,Tamil Nadu,"Tirunelveli Medical College,Tirunelveli",1965,30
+89,Tamil Nadu,"Coimbatore Medical College, Coimbatore",1966,31
+90,Himachal Pradesh,"Indira Gandhi Medical College, Shimla",1966,31
+91,Uttar Pradesh,"LLRM Medical College, Merrut",1966,31
+92,Maharashtra,"Indira Gandhi Medical College & Hospital, Nagpur",1968,32
+93,Uttar Pradesh,"Maharani Laxmi Bai Medical College, Jhansi",1968,32
+94,West Bengal,"North Bengal Medical College, Darjeeling",1968,32
+95,Assam,"Silchar Medical College, Silchar",1968,32
+96,West Bengal,"Burdwan Medical College, Burdwan",1969,33
+97,Maharashtra,"Mahatma Gandhi Institute of Medical Sciences, Sevagram, Wardha",1969,33
+98,Jharkhand,"Patliputra Medical College, Dhanbad",1969,33
+99,Bihar,"A N Magadh Medical College, Gaya",1970,34
+100,Bihar,"Nalanda Medical College, Patna",1970,34
+101,Bihar,"Shri Krishna Medical College, Muzzafarpur",1970,34
+102,Bihar,"Jawaharlal Nehru Medical College, Bhagalpur",1971,35
+103,Delhi,"University College of Medical Sciences & GTB Hospital, New
+  Delhi",1971,35
+104,Uttar Pradesh,"BRD Medical College, Gorakhpur",1972,36
+105,Jammu & Kashmir,"Government Medical College, Jammu",1972,36
+106,Manipur,"Regional Institute of Medical Sciences, Imphal",1972,36
+107,Punjab,"Guru Govind Singh Medical College, Faridkot",1973,37
+108,Maharashtra,"SRTR Medical College, Ambajogai",1974,38
+109,Karnataka,"M S Ramaiah Medical College, Bangalore",1979,39
+110,Karnataka,"Dr BR Ambedkar Medical College, Bangalore",1980,40
+111,Karnataka,"Kempegowda Institute of Medical Sciences, Bangalore",1980,40
+112,Andhra Pradesh,"Siddhartha Medical College, Vijaywada",1980,40
+113,Kerala,"Govt. Medical College, Thrissur",1981,41
+114,Karnataka,"Al-Ameen Medical College,Bijapur",1984,42
+115,Maharashtra,"Dr. Panjabrao Alias Bhausaheb Deshmukh Memorial Medical College,
+  Amravati",1984,42
+116,Karnataka,"JSS Medical College, Mysore",1984,42
+117,Maharashtra,"Krishna Institute of Medical Sciences, Karad",1984,42
+118,Maharashtra,"Rural Medical College, Loni",1984,42
+119,Karnataka,Adichunchanagiri Institute of Medical Sciences Bellur,1985,43
+120,Andhra Pradesh,"Deccan College of Medical Sciences, Hyderabad",1985,43
+121,Tamil Nadu,"PSG Institute of Medical Sciences, Coimbatore",1985,43
+122,Tamil Nadu,"Rajah Muthiah Medical College, Annamalainagar",1985,43
+123,Tamil Nadu,"Sri Ramachandra Medical College & Research Institute,
+  Chennai",1985,43
+124,Tamil Nadu,"Mohan Kumaramangalam Medical College, Salem",1986,44
+125,Karnataka,"Shri B M Patil Medical College, Hospital & Research Centre,
+  Bijapur",1986,44
+126,Karnataka,"Sri Devaraj URS Medical College, Kolar",1986,44
+127,Bihar,"Katihar Medical College, Katihar",1987,45
+128,Gujarat,"Pramukhswami Medical College, Karmsad",1987,45
+129,Maharashtra,"Dr. Shankarrao Chavan Govt. Medical College, Nanded",1988,46
+130,Jammu & Kashmir,"Sher-I-Kashmir Instt. Of Medical Sciences, Srinagar",1988,46
+131,Maharashtra,"Sri Bhausaheb Hire Government Medical College, Dhule",1988,46
+132,Karnataka,"Sri Siddhartha Medical College, Tumkur",1988,46
+133,Maharashtra,"Bharati Vidyapeeth University Medical College, Pune",1989,47
+134,Maharashtra,"Dr. D Y Patil Medical College, Kolhapur",1989,47
+135,Maharashtra,"Mahatma Gandhi Missions Medical College, Aurangabad",1989,47
+136,Maharashtra,"Mahatma Gandhi Missions Medical College, Navi Mumbai",1989,47
+137,Maharashtra,"Padmashree Dr. D.Y.Patil Medical College, Navi Mumbai",1989,47
+138,Maharashtra,"Shri Vasant Rao Naik Govt. Medical College, Yavatmal",1989,47
+139,Maharashtra,"ACPM Medical College, Dhule",1990,48
+140,Maharashtra,"Dr.Vasantrao Pawar Med. Col. Hosp. & Research Centre,Nasik
+  (Prev. NDMVP Samaj Medical College)",1990,48
+141,Maharashtra,"Jawaharlal Nehru Medical College, Sawangi (Meghe), Wardha",1990,48
+142,Maharashtra,"Maharashtra Institute of Medical Sciences & Research, Latur",1990,48
+143,Bihar,"Mata Gujri Memorial Medical College, Kishanganj",1990,48
+144,Maharashtra,"N. K. P. Salve Instt. of Medical Sciences and Research Centre
+  and Lata Mangeshkar Hospital, Nagpur",1990,48
+145,Chandigarh,"Government Medical College, Chandigarh",1991,49
+146,Maharashtra,"KJ Somaiyya Medical College & Research Centre, Mumbai",1991,49
+147,Maharashtra,"Terna Medical College, Navi Mumbai",1991,49
+148,Rajasthan,"Government Medical College, Kota",1992,50
+149,Tamil Nadu,"Perunthurai Medical College and Institute of Road Transport,
+  Perunthurai",1992,50
+150,Maharashtra,"Rajiv Gandhi Medical College and Chhatrapati Shivaji Maharaj
+  Hospital, Thane",1992,50
+151,Maharashtra,"Maharashtra Institute of Medical Education & Research, Pune",1994,51
+152,Kerala,"Academy of Medical Sceiences,Pariyaram, Kannur",1995,52
+153,Jammu & Kashmir,"Acharya Shri Chander College of Medical Sciences, Jammu",1995,52
+154,Gujarat,"Government Medical College, Bhavnagar",1995,52
+155,Uttaranchal,"Himalayan Institute of Medical Sciences, Dehradun",1995,52
+156,Maharashtra,"Padmashree Dr. D Y Patil Medical College, Pimpri, Pune",1995,52
+157,Gujarat,"Pandit Deendayal Upadhyay Medical College, Rajkot",1995,52
+158,Himachal Pradesh,"Dr. Rajendar Prasad Government Medical College, Tanda, H.P",1996,53
+159,Uttar Pradesh,"Santosh Medical College, Ghaziabad",1996,53
+160,Uttar Pradesh,"Subharti Medical College, Meerut",1996,53
+161,Tamil Nadu,"Vinayaka Missions Kirupananda Variyar Medical College, Salem",1996,53
+162,Uttar Pradesh,"Era Lucknow Medical College , Lucknow",1997,54
+163,Karnataka,"MVJ Medical College and Research Hospital, Bangalore",1997,54
+164,Punjab,"Sri Guru Ram Das Institute of Medical Sciences and Research, Sri
+  Amritsar",1997,54
+165,Pondicherry,"Vinayaka Missions Medical College, Pondicherry",1997,54
+166,Tamil Nadu,"K A P Viswanathan Government Medical College, Trichy",1998,55
+167,Andhra Pradesh,"Mamata Medical College, Khammam",1998,55
+168,Pondicherry,"Aarupadai Veedu Medical College, Pondicherry",1999,56
+169,Karnataka,"Basaveswara Medical College and Hospital, Chitradurga",1999,56
+170,Karnataka,"Father Mullers Institue of Medical Education and Research,
+  Mangalore",1999,56
+171,Karnataka,"K S Hegde Medical Academy, Mangalore",1999,56
+172,Karnataka,"K V G Medical College, Sullia",1999,56
+173,Andhra Pradesh,"Kamineni Institute of Medical Sciences, Narketpally",1999,56
+174,Andhra Pradesh,"S V S Medical College, Mehboobnagar",1999,56
+175,Tamil Nadu,"Sree Balaji Medical College and Hospital, Chennai",1999,56
+176,Gujarat,"Surat Municipal Institute of Medical Education & Research,
+  Surat",1999,56
+177,Karnataka,"Yenepoya Medical College, Mangalore",1999,56
+178,Andhra Pradesh,"Alluri Sitaram Raju Academy of Medical Sciences, Eluru",2000,57
+179,Kerala,"Amrita School of Medicine, Elamkara, Kochi",2000,57
+180,Kerala,"Cochin Medical College, Kochi",2000,57
+181,Gujarat,"CU Shah Medical College, Surendra Nagar",2000,57
+182,Andhra Pradesh,"Government Medical College, Anantapur",2000,57
+183,Karnataka,"Khaja Banda Nawaz Institute of Medical Sciences, Gulbarga",2000,57
+184,Andhra Pradesh,"Narayana Medical College, Nellore",2000,57
+185,Karnataka,"Navodaya Medical College, Raichur",2000,57
+186,Pondicherry,"Pondicherry Institute of Medical Sciences & Research,
+  Pondicherry",2000,57
+187,Sikkim,"Sikkim Manipal Institute of Medical Sciences, Gangtok",2000,57
+188,Tamil Nadu,"Thoothukudi Medical College, Thoothukudi",2000,57
+189,Chattisgarh,"Chhattisgarh Institute of Medical Sciences, Bilaspur",2001,58
+190,Kerala,"Dr. Somervel Memorial CSI Hospital & Medical College,
+  Karakonam, Thiruvananthapuram",2001,58
+191,Uttaranchal,"Govt. Medical College (Prev.Uttarakhand Forest Hospital Trust
+  Med.Col.), Haldwani",2001,58
+192,Rajasthan,"Mahatma Gandhi Medical College and Hospital, Jaipur",2001,58
+193,Kerala,"Malankara Orthodox Syrian Church Medical College, Kolenchery",2001,58
+194,Andhra Pradesh,"Medicity Institute Of Medical Sciences, Ghanpur",2001,58
+195,West Bengal,"Midnapore Medical College, Midnapore",2001,58
+196,Andhra Pradesh,"P E S Institute Of Medical Sciences and Research, Kuppam",2001,58
+197,Andhra Pradesh,"Prathima Institute Of Medical Sciences, Karimnagar",2001,58
+198,Maharashtra,"Rajashree Chatrapati Shahu Maharaj Government Medical College,
+  Kolhapur",2001,58
+199,Madhya Pradesh,"Ruxmaniben Deepchand Gardi Medical College, Ujjain",2001,58
+200,Gujarat,"Vivekanand Institute Of Medical Sciences & Research, Valia",2001,58
+201,Karnataka,"A J Institute of Medical Sciences & Research Centre,
+  Mangalore",2002,59
+202,Kerala,"Amala Institute of Medical Sciences, Thrissur",2002,59
+203,Andhra Pradesh,"Dr. P.S.I. Medical College , Chinoutpalli",2002,59
+204,Maharashtra,"Govt Medical College, Akola",2002,59
+205,Maharashtra,"Govt. Medical College , Latur",2002,59
+206,Andhra Pradesh,"GSL Medical College, Rajahmundry",2002,59
+207,Kerala,"Jubilee Mission Medical College & Research Institute,
+  Thrissur",2002,59
+208,Andhra Pradesh,"Katuri Medical College, Guntur",2002,59
+209,Kerala,"M E S Medical College , Perintalmanna Malappuram Distt.Kerala",2002,59
+210,Haryana,"Maharaja Agrasen Medical College, Agroha",2002,59
+211,Andhra Pradesh,"Maharajah Institute of Medical Sciences, Vizianagaram",2002,59
+212,Pondicherry,"Mahatma Gandhi Medical College & Research Institute,
+  Pondicherry",2002,59
+213,Andhra Pradesh,"MNR Medical College, Sangareddy",2002,59
+214,Kerala,"Pushpagiri Institute Of Medical Sciences and Research Centre,
+  Tiruvalla",2002,59
+215,Karnataka,"S. Nijalingappa Medical College & HSK Hospital &
+  Research Centre, Bagalkot",2002,59
+216,Gujarat,"SBKS Medical Instt. & Research Centre, Vadodra",2002,59
+217,Delhi,"Vardhman Mahavir Medical College & Safdarjung Hospital,
+  Delhi",2002,59
+218,Karnataka,"Vydehi Institute Of Medical Sciences & Research Centre,
+  Bangalore",2002,59
+219,Andhra Pradesh,"Chalmeda Anand Rao Insttitute Of Medical Sciences, Karimnagar",2003,60
+220,Tamil Nadu,"KanyaKumari Government Medical College, Asaripallam",2003,60
+221,Gujarat,"Kesarsal Medical College & Research Institute, Ahmedabad",2003,60
+222,Haryana,"Maharishi Markandeshwar Institute Of Medical Sciences &
+  Research, Mullana, Ambala",2003,60
+223,Tamil Nadu,"Meenakshi Medical College and Research Institute, Enathur",2003,60
+224,Andhra Pradesh,"NRI Medical College, Guntur",2003,60
+225,Maharashtra,"Padmashri Dr. Vithalrao Vikhe Patil Foundations Medical College,
+  Ahmednagar",2003,60
+226,Karnataka,"SDM Medical College , Dharwad",2003,60
+227,Madhya Pradesh,"Sri Aurobindo Medical College and Post Graduate Institute ,
+  Indore",2003,60
+228,Rajasthan,"National Institute of Medical Science & Research, Jaipur",2004,61
+229,Tripura,"Agartala Government Medical College,Agartala",2005,62
+230,Maharashtra,"Bharati Vidyapeeth Deemed University Medical College &
+  Hospital, Sangli",2005,62
+231,Andhra Pradesh,"Bhaskar Medical College, Yenkapally",2005,62
+232,Tamil Nadu,"Government Vellore Medical College, Vellore",2005,62
+233,Orissa,"Hi-Tech Medical College & Hospital, Bhubaneswar",2005,62
+234,Andhra Pradesh,"Konaseema Institute of Medical Sciences & Research
+  Foundation, Amalapuram",2005,62
+235,Madhya Pradesh,"Peoples College of Medical Sciences & Research Centre,
+  Bhanpur, Bhopal",2005,62
+236,Karnataka,"Rajarajeswari Medical College & Hospital, Bangalore",2005,62
+237,Andhra Pradesh,"Santhiram Medical College, Nandyal",2005,62
+238,Andhra Pradesh,"Shadan Institute of Medical Sciences,Research Centre and
+  Teaching Hospital, Peerancheru",2005,62
+239,Uttar Pradesh,"Shri Ram Murti Smarak Institute of Medical Sciences, Bareilly",2005,62
+240,Kerala,"Sri Gokulam Medical College Trust & Research Foundation,
+  Trivandrum",2005,62
+241,Tamil Nadu,"SRM Medical College Hospital & Research Centre, Kancheepuram",2005,62
+242,Punjab,"Adesh Institute of Medical Sciences & Research, Bhatinda",2006,63
+243,Karnataka,"Belgaum Institute of Medical Sciences, Belgaum",2006,63
+244,Tamil Nadu,"Chettinad Hospital & Research Institute, Kanchipuram",2006,63
+245,Karnataka,"Hassan Institute of Medical Sciences, Hassan",2006,63
+246,Kerala,"Kannur Medical College, Kannur",2006,63
+247,Kerala,"Karuna Medical College, Palakkad",2006,63
+248,Chattisgarh,"Late Baliram Kashyap Memorial Medical College, Jagdalpur",2006,63
+249,Karnataka,"Mandya Institute of Medical Sciences, Mandya",2006,63
+250,Uttar Pradesh,"Muzaffarnagar Medical College, Muzaffarnagar",2006,63
+251,Andhra Pradesh,"Rajiv Gandhi Institute of Medical Sciences, Kadapa",2006,63
+252,Uttar Pradesh,"Rohilkhand Medical College & Hospital, Bareilly",2006,63
+253,Karnataka,"S S Institute of Medical Sciences& Research Centre,
+  Davangere",2006,63
+254,Uttaranchal,"Shri Guru Ram Rai Institute of Medical & Health Sciences,
+  Dehradun",2006,63
+255,Tamil Nadu,"Sree Mookambika Institute of Medical Sciences, Kanyakumari",2006,63
+256,Kerala,"Sree Uthradom Thiurnal Academy of Medical Sciences,Trivandrum",2006,63
+257,Pondicherry,"Sri Lakshmi Narayana Institute of Medical Sciences, Pondicherry",2006,63
+258,Pondicherry,"Sri Manakula Vinayagar Medical College & Hospital,
+  Pondicherry",2006,63
+259,Tamil Nadu,"Theni Government Medical College,Theni",2006,63
+260,Tripura,"Tripura Medical College and Dr. B R A M Teaching Hospital,
+  Agartala",2006,63
+261,Uttar Pradesh,"U.P. Rural Institute of Medical Sciences & Research, Etawah",2006,63
+262,Karnataka,"Bidar Institute of Medical Sciences,Bidar",2007,64
+263,Punjab,"Gian Sagar Medical College & Hospital, Patiala",2007,64
+264,Madhya Pradesh,"Index Medical College Hospital & Research Centre,Indore",2007,64
+265,Orissa,"Instt. Of Medical Sciences & SUM Hospital, Bhubaneswar",2007,64
+266,Orissa,"Kalinga Institute of Medical Sciences, Bhubaneswar",2007,64
+267,Karnataka,"Raichur Institute of Medical Sciences,Raichur",2007,64
+268,Karnataka,"Shimoga Institute of Medical Sciences,Shimoga",2007,64
+269,Maharashtra,"Smt. Kashibai Navale Medical College and General Hospital,Pune",2007,64
+270,Pondicherry,"Sri Venkateswaraa Medical College, Hospital & Research
+  Centre, Pondicherry",2007,64
+271,Tamil Nadu,"ACS Medical College and Hospital, Chennai",2008,65
+272,Delhi,"Army College of Medical Sciences, New Delhi",2008,65
+273,Kerala,"Azeezia Instt of Medical Science,Meeyannoor,Kollam",2008,65
+274,Maharashtra,"Dr. Ulhas Patil Medical College & Hospital, Jalgaon",2008,65
+275,Rajasthan,"Geetanjali Medical College & Hospital,Udaipur",2008,65
+276,Tamil Nadu,"Government Dharmapuri Medical College, Dharmapuri",2008,65
+277,Rajasthan,"Jhalawar Medical College, Jhalawa",2008,65
+278,Kerala,"KMCT Medical College,Kozhikode, Calicut",2008,65
+279,West Bengal,"KPC Medical College,Jadavpur,Kolkata",2008,65
+280,Tamil Nadu,Melmaruvathur Adiparasakthi Instt. Medical Sciences and Research,2008,65
+281,Bihar,"Narayan Medical College & Hospital, Sasaram",2008,65
+282,Meghalaya,"North Eastern Indira Gandhi Regional Instt. of Health and
+  Medical Sciences, Shillong",2008,65
+283,Andhra Pradesh,"Rajiv Gandhi Institute of Medical Sciences, adilabad",2008,65
+284,Andhra Pradesh,"Rajiv Gandhi Institute of Medical Sciences, Srikakulam",2008,65
+285,Uttar Pradesh,"Rama Medical College and Hospital , Kanpur",2008,65
+286,Uttar Pradesh,"Saraswati Institute of Medical Sciences, Hapur",2008,65
+287,Tamil Nadu,"Saveetha Medical College and Hospital, Kanchipuram",2008,65
+288,Tamil Nadu,"Shri Satya Sai Medical College and Research Institute,
+  Kancheepuram",2008,65
+289,Uttar Pradesh,"Teerthanker Mahaveer Medical College, Moradabad",2008,65
+290,Uttaranchal,"Veer Chandra Singh Garhwali Govt. Medical Sc. & Research
+  Instt, Srinagar, Pauri Garhwal",2008,65
+291,Gujarat,"Ahmedabad Municipal Coporation Medical Education Trust Medical
+  College, Ahmedabad",2009,66
+292,Tamil Nadu,"Chennai Medical College Hospital and research
+  centre,Irungalur,Trichy",2009,66
+293,Gujarat,"Gujarat Adani Institute of Medical Sciences, Bhuj",2009,66
+294,Uttar Pradesh,"Hind Institute of Medical Sciences , Barabanki",2009,66
+295,Gujarat,"K.J. Mehta General Hospital & College of Medical Sciences,
+  Amargadh",2009,66
+296,Tamil Nadu,"Karpaga Vinayaga Institute of Medical Sciences,Maduranthagam",2009,66
+297,Madhya Pradesh,"L.N. Medical College and Research Centre,Bhopal",2009,66
+298,Madhya Pradesh,"Sagar Medical College, Sagar",2009,66
+299,Uttar Pradesh,"School of Medical Sciences & Research,Greater Noida",2009,66
+300,Kerala,"Sree Narayana Instt. of Medical Sciences, Chalakka,Ernakulam",2009,66
+301,Kerala,"Travancore Medical College, Kollam",2009,66
+302,West Bengal,"College of Medicine and JNM Hospital,Kalyani,Nadia",2010,67
+303,Tamil Nadu,"D.D. Medical College and Hospital, Tiruvallur, Chennai",2010,67
+304,Andhra Pradesh,"Dr. VRK Womens Medical College, Aziznagar",2010,67
+305,Andhra Pradesh,"Fathima Instt. of Medical Sciences,Kadapa",2010,67
+306,Andhra Pradesh,"Great Eastern Medical School and Hospital,Srikakulam",2010,67
+307,Pondicherry,"Indira Gandhi Medical College & Research Institute,
+  Puducherry",2010,67
+308,Manipur,"Jawaharlal Nehru Institute of Medical Sciences,Porompet,Imphal",2010,67
+309,Assam,"Jorhat Medical College & Hospital , Jorhat",2010,67
+310,Kerala,"Malabar Medical College, Kozhikode,Calicut",2010,67
+311,Haryana,"Shree Guru Gobind Singh Tricentenary Medical College, Gurgaon",2010,67
+312,Tamil Nadu,"Sri Muthukumaran Medical College,Chennai",2010,67
+313,Tamil Nadu,"Tagore Medical College and Hospital, Chennai",2010,67
+314,Tamil Nadu,"Thiruvarur Govt. Medical College, Thiruvarur",2010,67
+315,Tamil Nadu,"Villupuram Medical College, Villupuram",2010,67
+316,Tamil Nadu,"Annapoorna Medical College & Hospital, Salem",2011,68
+317,Uttar Pradesh,"Career Instt. Of Medical Sciences & Hospital, Lucknow",2011,68
+318,Punjab,"Chintpurni Medical College, Gurdaspur",2011,68
+319,Madhya Pradesh,"Chirayu Medical College and Hospital, Bairagarh,Bhopal",2011,68
+320,West Bengal,"College of Medicine and Sagore Dutta Hospital, Kolkata",2011,68
+321,Tamil Nadu,"Dhanalakshmi Srinivasan Medical College and Hospital,Perambalur",2011,68
+322,Gujarat,"GCS Medical College, Ahmedabad",2011,68
+323,Gujarat,"GMERS Medical College, Gotri, Vadodara",2011,68
+324,Gujarat,"GMERS Medical College, Sola, Ahmedabad",2011,68
+325,Haryana,"Gold Field Institute of Medical Sciences & Research,
+  Ballabgarh, Faridabad",2011,68
+326,West Bengal,"ICARE Institute of Medical Sciences & Research, Haldia,
+  Purba Midanpore",2011,68
+327,Bihar,"Indira Gandhi Institute of Medical Sciences,Sheikhpura Patna",2011,68
+328,Tamil Nadu,"Madha Medical College and Hospital, Thandalam, Chennai",2011,68
+329,Uttar Pradesh,"Mahamaya Rajkiya Allopathic Medical College, Ambedkarnagar",2011,68
+330,Uttar Pradesh,"Major S D Singh Medical College and Hospital, Fathehgarh,
+  Farrukhabad",2011,68
+331,West Bengal,"Malda Medical College & Hospital, Malda",2011,68
+332,Punjab,"Punjab Institute of Medical Sciences, Jalandhar",2011,68
+333,Andhra Pradesh,"Ra jiv Gandhi Institute of Medical Sciences,Ongole, AP",2011,68
+334,Uttar Pradesh,"Rama Medical College Hospital and Research Centre,
+  Hapur,Gaziabad",2011,68
+335,Karnataka,"Sapthagiri Institute of Medical Sciences & Research Centre,
+  Bangalore",2011,68
+336,Karnataka,"Srinivas Institute of Medical Research Centre, Srinivasnagar",2011,68
+337,Andhra Pradesh,"Apollo Institute of Medical Sciences and Research, Hyderabad",2012,69
+338,Maharashtra,"Ashwini Rural Medical College, Hospital & Research Centre,
+  Solapur",2012,69
+339,Haryana,"BPS Government Medical College for Women, Sonepat",2012,69
+340,Karnataka,"Employees State Insurance Corporation Medical College, Bangalore",2012,69
+341,Assam,"Fakhruddin Ali Ahmed Medical College, Barpeta, Assam",2012,69
+342,Gujarat,"GM ERS Medical College, Gandhinagar",2012,69
+343,Gujarat,"GMERS Medical College, Dharpur Patan",2012,69
+344,Gujarat,"GMERS Medical College, Valsad",2012,69
+345,Uttar Pradesh,"Government Medical College, Kannauj",2012,69
+346,Tamil Nadu,"Government Sivgangai Medical College, Sivaganga",2012,69
+347,Delhi,"Hamdard Institute of Medical Sciences & Research, New Delhi",2012,69
+348,Orissa,"Hi-Tech Medical College & Hospital, Rourkela",2012,69
+349,Maharashtra,"Institute of Medical Science and Research, Vidyagiri, Satara",2012,69
+350,Tamil Nadu,"Karpagam Faculty of Medical Sciences & Research, Coimbatore",2012,69
+351,Bihar,"Lord Buddha Koshi Medical College and Hospital, Saharsa",2012,69
+352,Andhra Pradesh,"Malla Reddy Institute of Medical Sciences, Hyderabad",2012,69
+353,Uttar Pradesh,"Mayo Institute of Medical Sciences, Barabanki",2012,69
+354,West Bengal,"Murshidabad Medical College & Hospitals, Murshidabad",2012,69
+355,Andhra Pradesh,"NRI Institute of Medical Sciences, Visakhapatnam",2012,69
+356,Karnataka,"Subbaiah Institute of Medical Sciences, Shimoga, Karnataka",2012,69
+357,Karnataka,"BGS Global Institute of Medical Sciences, Bangalore",2013,70
+358,Chattisgarh,"CM Medical College, Durg",2013,70
+359,Kerala,"DM Wayanad Institute of Medical Sciences, Wayanad, Kerala",2013,70
+360,West Bengal,"Employees State Insurance Corporation Medical College, Joka,
+  Kolkata",2013,70
+361,Tamil Nadu,"ESIC Medical College, Chennai",2013,70
+362,Karnataka,"ESIC Medical College, Gulbarga",2013,70
+363,Kerala,"Government Medical College, Manjeri, Malapuram Dist.",2013,70
+364,Andhra Pradesh,"Government Medical College, NIzamabad",2013,70
+365,Uttar Pradesh,"Govt. Medical College & Super facility Hospital, Azamgarh",2013,70
+366,Bihar,"Govt. Medical College, Bettiah",2013,70
+367,Tamil Nadu,"Govt. Thiruvannamalai Medical College, Thiruvannamalai",2013,70
+368,Maharashtra,"Indian Institute of Medical Science & Research, Jalna",2013,70
+369,Uttar Pradesh,"Integral Institute of Medical Sciences & Research, Lucknow",2013,70
+370,West Bengal,"IQ-City Medical College, Burdwan",2013,70
+371,Andhra Pradesh,"Kamineni Academy of Medical Sciences & Research Center,
+  Hyderabad",2013,70
+372,Chattisgarh,"Late Shri Lakhi Ram Agrawal Memorial Govt. Medical College,
+  Raigarh",2013,70
+373,Himachal Pradesh,"Maharishi Markandeshwar Medical College & Hospital, Solan",2013,70
+374,Andhra Pradesh,"Mallareddy Medical College for Womens, Hyderabad",2013,70
+375,Uttar Pradesh,Manyavar Kanshi Ram Ji Government Allopathic Medical College,2013,70
+376,Delhi,"North Delhi Muncipal Corporation Medical College, Delhi",2013,70
+377,Orissa,"Sardar Rajas Medical College, Hospital and Research Centre,
+  Jaring, Kalahandi",2013,70
+378,Haryana,"Shaheed Hasan Khan Mewati Government Medical College, Nalhar",2013,70
+379,Karnataka,"Shridevi Institute of Medical Sciences & Research Hospital,
+  Tumkur",2013,70
+380,Bihar,"Vardhman Institute of Medical Sciences, Pawapuri, Nalanda",2013,70
+381,Tamil Nadu,"Velammal Medical College Hospital and Research Institute,
+  Madurai",2013,70
